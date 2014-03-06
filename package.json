@@ -1,0 +1,24 @@
+{
+  "name": "atom-hn",
+  "version": "0.0.0",
+  "description": "a Hacker News package for atom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/turingou/atom-hn.git"
+  },
+  "keywords": [
+    "atom",
+    "hacker",
+    "news"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/atom-hn/issues"
+  },
+  "homepage": "https://github.com/turingou/atom-hn"
+}
